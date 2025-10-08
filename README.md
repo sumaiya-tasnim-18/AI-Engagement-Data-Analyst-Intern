@@ -1,5 +1,5 @@
 # AI-Engagement-Data-Analyst-Intern
-This repository demonstrates my AI-powered data analysis internship experience, completed under the Excelerate Internship Program in collaboration with Saint Louis University (USA). The 4-week program focused on building practical data science skills to analyze learner engagement and predict student drop-offs using machine learning techniques.
+This repository demonstrates my AI-powered data analysis internship experience, completed under the Excelerate Internship Program in collaboration under "Rochester Institute of Technology (USA)". The 4-week program focused on building practical data science skills to analyze learner engagement and predict student drop-offs using machine learning techniques.
 
 # 📇 Internship Overview
 • Dataset: SLU_Opportunity_Wise_Data.csv
